@@ -1,5 +1,6 @@
 Building Gabencoin
 
+<<<<<<< HEAD
 See doc/readme-qt.rst for instructions on building Gabencoin-Qt,
 the intended-for-end-users, nice-graphical-interface, reference
 implementation of Gabencoin.
@@ -7,3 +8,6 @@ implementation of Gabencoin.
 See doc/build-*.txt for instructions on building gabencoind,
 the intended-for-services, no-graphical-interface, reference
 implementation of Gabencoin.
+=======
+Coming soon...
+>>>>>>> 16031942d3d9369bc02280dfaf1fc2c5e272b933
